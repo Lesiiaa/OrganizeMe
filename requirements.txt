@@ -1,0 +1,6 @@
+apikey==0.2.4
+pillow==10.3.0
+setuptools==69.5.1
+tk==0.1.0
+Pyrebase4==4.7.1
+python-dotenv==1.0.1
